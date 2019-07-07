@@ -9,7 +9,7 @@ def monopoly_with_second_tier
 
 end monopoly = {
   railroads: {
-    
+    pieces: 4
   }
 }
 
