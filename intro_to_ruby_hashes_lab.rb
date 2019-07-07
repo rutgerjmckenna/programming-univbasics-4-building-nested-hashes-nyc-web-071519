@@ -10,7 +10,7 @@ def monopoly_with_second_tier
 end monopoly = {
   railroads: {
     pieces: 4
-  }https://learn.co/tracks/fswd-prework-2-0/cli-essentials/programming-as-conversation-part-4-collection-data-types-array-and-hash/building-nested-hashes#
+  }
 }
 
 def monopoly_with_third_tier
